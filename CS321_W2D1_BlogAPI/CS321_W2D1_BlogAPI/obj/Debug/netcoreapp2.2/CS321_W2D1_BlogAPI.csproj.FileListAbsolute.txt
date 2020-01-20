@@ -1,0 +1,16 @@
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.csprojAssemblyReference.cache
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.RazorAssemblyInfo.cache
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.RazorAssemblyInfo.cs
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.AssemblyInfoInputs.cache
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.AssemblyInfo.cs
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.deps.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.runtimeconfig.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.runtimeconfig.dev.json
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.dll
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/bin/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.pdb
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.RazorTargetAssemblyInfo.cache
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.dll
+/Users/WIZ4RD/Desktop/c#EntityFrameworkClassmkII/CS321_W2D1_BlogAPI/CS321_W2D1_BlogAPI/obj/Debug/netcoreapp2.2/CS321_W2D1_BlogAPI.pdb
